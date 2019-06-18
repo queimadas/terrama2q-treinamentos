@@ -1,6 +1,6 @@
-# TerraMA2Q - Análises
+# TerraMA2Q - Treinamentos
 
-Documentação de análises para o TerraMA2Q. As quais também podem servir para instâncias [TerraMA²](http://www.terrama2.dpi.inpe.br/).
+Material de treinamentos para instâncias TerraMA2Q. Os quais também podem servir para instâncias [TerraMA²](http://www.terrama2.dpi.inpe.br/).
 
 Para mais detalhes sobre o projeto TerraMA2Q, acesse [o post no portal](http://www.inpe.br/queimadas/portal/terrama2q).
 

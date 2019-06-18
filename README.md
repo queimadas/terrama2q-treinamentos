@@ -1,4 +1,4 @@
-TerraMA2Q - Análises
-====================
+TerraMA2Q - Treinamentos
+========================
 
-Análises para utilização em instâncias TerraMA2Q.
+Material para treinamentos de uso e configuração do TerraMA2Q.
