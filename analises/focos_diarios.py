@@ -1,9 +1,9 @@
 # Id do objeto monitorado
-id_name = "id_0"
+id_name = "ID_OBJETO_MONITORADO"
 
 # Nome do dado dinâmico e nome do attributo a ser relacionado
 dynamic_data = "d_focos_ams"
-id_dyn_join = "id_0"
+id_dyn_join = "ID_DADOS_DINAMICOS"
 
 # Filtro a ser aplicado na tabela de dados dinâmicos
 filter_by = "satelite = 'AQUA_M-T'"

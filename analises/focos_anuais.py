@@ -7,11 +7,11 @@ from datetime import timedelta
 one_day = timedelta(days=1)
 
 # Id do objeto monitorado
-id_name = "id_0"
+id_name = "ID_OBJETO_MONITORADO"
 
 # Nome do dado dinâmico e nome do attributo a ser relacionado
 dynamic_data = "d_focos_ams"
-id_dyn_join = "id_0"
+id_dyn_join = "ID_DADOS_DINAMICOS"
 
 # Filtro a ser aplicado na tabela de dados dinâmicos
 # AQUA_M-T é o valor no base para os dados do satélite de referência
@@ -21,6 +21,7 @@ filter_by = "satelite = 'AQUA_M-T'"
 exec_date = get_analysis_date()
 yday = exec_date.timetuple().tm_yday
 
+# A seguinte condição é verdadeira caso seja o primeiro dia do ano, assim a análise será executada.
 if yday == 1:
     # Determina como início da análise o primeiro dia do mês anterior
     analysis_date = (exec_date - one_day).replace(day=1)
