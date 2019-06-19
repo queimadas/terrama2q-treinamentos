@@ -1,7 +1,9 @@
-#------------------------------------------------------------------------------#
-#                                 Versão: 1.1.0                                #
-#                              Autor: Jonatas Leon                             #
-#------------------------------------------------------------------------------#
+""" Análise de ocorrência de focos mensais por país.
+    Para uso com dados do TerraMA2Q.
+    """
+__author__ = "Programa Queimadas - INPE"
+__email__ = "queimadas@inpe.br"
+
 from datetime import timedelta
 one_day = timedelta(days=1)
 

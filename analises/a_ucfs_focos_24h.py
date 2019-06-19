@@ -1,3 +1,9 @@
+""" Análise de ocorrência de focos diários nas unidades de conservação.
+    Para uso com dados do TerraMA2Q.
+    """
+__author__ = "Programa Queimadas - INPE"
+__email__ = "queimadas@inpe.br"
+
 # Buffer do poligono monitorado (unidade de conservação federal)
 obj_buffer = Buffer()
 

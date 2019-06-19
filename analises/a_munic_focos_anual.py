@@ -1,3 +1,9 @@
+""" Análise de ocorrência de focos anuais por município.
+    Para uso com dados do TerraMA2Q.
+    """
+__author__ = "Programa Queimadas - INPE"
+__email__ = "queimadas@inpe.br"
+
 # Data/hora da análise
 now = get_analysis_date()
 

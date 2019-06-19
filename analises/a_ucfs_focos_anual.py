@@ -1,7 +1,9 @@
-#------------------------------------------------------------------------------#
-#                                 Versão: 1.0.2                                #
-#                              Autor: Jonatas Leon                             #
-#------------------------------------------------------------------------------#
+""" Análise de ocorrência de focos anuais nas unidades de conservação.
+    Para uso com dados do TerraMA2Q.
+    """
+__author__ = "Programa Queimadas - INPE"
+__email__ = "queimadas@inpe.br"
+
 
 # Buffer do poligono monitorado (unidade de conservação federal)
 obj_buffer = Buffer()

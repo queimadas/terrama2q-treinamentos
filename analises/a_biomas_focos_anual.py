@@ -1,3 +1,9 @@
+""" Análise de ocorrência de focos anuais nos biomas brasileiros.
+    Para uso com dados do TerraMA2Q.
+    """
+__author__ = "Programa Queimadas - INPE"
+__email__ = "queimadas@inpe.br"
+
 # Id do objeto monitorado
 id_name = "id"
 

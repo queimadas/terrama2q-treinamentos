@@ -1,3 +1,9 @@
+""" Análise de ocorrência de focos diários nos biomas brasileiros.
+    Para uso com dados do TerraMA2Q.
+    """
+__author__ = "Programa Queimadas - INPE"
+__email__ = "queimadas@inpe.br"
+
 # Data/Hora da análise corrente
 now = get_analysis_date()
 
